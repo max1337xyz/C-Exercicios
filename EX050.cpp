@@ -1,7 +1,11 @@
 #include <iostream>
 
 using namespace std;
+    /*
+        CRIE UM JOGO DA FORCA!
 
+
+    */
 int main(){
     system("color 2");
     char palavra[30],secret[30],letra,repeat;
